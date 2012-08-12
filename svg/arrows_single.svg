@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+	xmlns:svg="http://www.w3.org/2000/svg"
+	xmlns="http://www.w3.org/2000/svg"
+	viewBox="0 0 25 25"
+	class="pa-arrows-single">
+	<g>
+		<path
+			class="pa-arrows-single-arrow"
+			d="m 14.849326,11 9.821968,0 -4.910984,4.425009 z"
+		/>
+		<path
+			class="pa-arrows-single-body"
+			d="m 12.5,3.5625 c -4.9207684,0 -8.9375,4.0167315 -8.9375,8.9375 0,4.920768 4.0167316,8.9375 8.9375,8.9375 2.962435,0 5.590073,-1.454326 7.21875,-3.6875 l -3.1875,-0.96875 C 15.482239,17.767673 14.067194,18.375 12.5,18.375 c -3.2647709,0 -5.875,-2.61023 -5.875,-5.875 0,-3.264771 2.6102291,-5.875 5.875,-5.875 2.811063,0 5.126778,1.9182773 5.71875,4.540003 l 3.125,0 C 20.699884,6.8673454 16.971041,3.5625 12.5,3.5625 z"
+		/>
+		<animateTransform
+			attributeType="XML"
+			attributeName="transform"
+			type="rotate"
+			from="0,12.5,12.5"
+			to="360,12.5,12.5"
+			begin="0s"
+			dur="1s"
+			repeatCount="indefinite"
+		/>
+	</g>
+</svg>
